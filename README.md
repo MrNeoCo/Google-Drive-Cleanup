@@ -82,7 +82,7 @@ Developed a modular Python-based Google Drive management tool with automated cle
 
 ---
 
-# Current Functionalities
+# Functionalities
 
 - Authenticate with Google Drive
 - List Drive files
