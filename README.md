@@ -74,14 +74,6 @@ This project automated:
 
 for nested client-based report directories.
 
----
-
-# In Short
-
-Developed a modular Python-based Google Drive management tool with automated cleanup, duplicate detection, and GUI-based storage administration using Google Drive API and OAuth authentication.
-
----
-
 # Functionalities
 
 - Authenticate with Google Drive
@@ -93,5 +85,13 @@ Developed a modular Python-based Google Drive management tool with automated cle
 - Detect duplicate files
 - Handle nested Drive folders
 - GUI-based interaction
+
+---
+
+---
+
+# In Short
+
+Developed a modular Python-based Google Drive management tool with automated cleanup, duplicate detection, and GUI-based storage administration using Google Drive API and OAuth authentication.
 
 ---
